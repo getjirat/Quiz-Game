@@ -1,0 +1,18 @@
+3
+1
+Meat
+Plant
+Plant And Meat
+4
+2
+Elephant
+Whale
+Shark
+Sheep
+5
+4
+Stupid-Game
+None-Game
+It always just Game.
+Quiz-Game
+Shoot-Game
