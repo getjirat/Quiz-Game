@@ -7,4 +7,5 @@ def _init_():
   print(question_lists)
   print(answer_lists)
 _init_()
+input("Press Key [ENTER] to Continue.")
   
